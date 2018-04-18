@@ -3,10 +3,12 @@ Simple Resort website, 18/4/2018
 #### By **Arnold Henry and Dan**
 ## Description
 This is a Resort website for accommodation and various activities
+![GitHub Logo](/images/island.jpg)
+Format: ![Alt Text](url)
 ## Setup/Installation Requirements
 No installation needed just open the index file files with your default browser.
 To check it out online use
-[GitHub](https://arnoldhenry.github.io/islandresort/)
+[Southern Ocean Resort](https://arnoldhenry.github.io/islandresort/)
 ## Known Bugs
 No bugs
 ## Technologies Used
