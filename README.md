@@ -4,7 +4,6 @@ Simple Resort website, 18/4/2018
 ## Description
 This is a Resort website for accommodation and various activities
 ![GitHub Logo](/images/island.jpg)
-Format: ![Alt Text](url)
 ## Setup/Installation Requirements
 No installation needed just open the index file files with your default browser.
 To check it out online use
